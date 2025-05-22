@@ -1,1 +1,2 @@
 Hello Git! This is my first tracked file.
+Now I am making a change.
